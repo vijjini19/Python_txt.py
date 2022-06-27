@@ -1,0 +1,17 @@
+python software----IDLE,IDE
+
+IDLE----Integrated Development Learning Environment.
+
+IDE----Integrated Development Environment.
+The another name for IDE is Text Editor.
+1)Python
+2)Jupyter Notebook
+3)Pycharm
+4)Spyder
+5)Sublime
+6)Notepad
+7)Notepad++
+8)Atom
+9)Thonny
+10)Brackets
+11)Microsoft Visual Studio Code
